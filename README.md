@@ -15,17 +15,18 @@ This is a standalone script. It means this works on any framework. (QB, ESX, Wha
 
 #Installation 🐌
 
-- unzip the file → S-Crosshair
-- place it somewhere in your server's resource folder
-- add → ensure S-Crosshair ...to your server.cfg
-- restart the server
+`- unzip the file → S-Crosshair- place it somewhere in your server's resource folder`
+
+
+`- add → ensure S-Crosshair ...to your server.cfg then restart the server `
+
+# ScreenShot Of Script : 📸
+
+![image](https://github.com/STRGDEVELOPMENT/S-Crosshair/assets/134840814/a231840d-4813-4b43-a6d6-807860f1be6f)
 
 
 
-![image](https://github.com/STRGDEVELOPMENT/S-Crosshair/assets/134840814/d14c6133-4a42-4e3d-ad53-495f094eb79a)
+# SupportDiscord :  
 
-
-STRG#0420 
-
-Support Discord :  https://discord.gg/dhw9G2g7bv
+https://discord.gg/dhw9G2g7bv
 
