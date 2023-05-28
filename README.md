@@ -15,9 +15,9 @@ This is a standalone script. It means this works on any framework. (QB, ESX, Wha
 
 #Installation 🐌
 
-- unzip the file → mrm-crosshair
+- unzip the file → S-Crosshair
 - place it somewhere in your server's resource folder
-- add → ensure mrm-crosshair ...to your server.cfg
+- add → ensure S-Crosshair ...to your server.cfg
 - restart the server
 
 
