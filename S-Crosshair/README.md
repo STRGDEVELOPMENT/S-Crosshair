@@ -1,5 +1,7 @@
 # S-Crosshair 🎯
 
+# Version 1.0.0 ✅
+
 Simple and well optimized Crosshair for FiveM servers.
 
 # Features 💼
@@ -17,6 +19,7 @@ place it somewhere in your server's resource folder
 add → ensure S-Crosshair ...to your server.cfg
 restart the server
 
+Screenshot Of Script Working :
 
 STRG#0420
 
