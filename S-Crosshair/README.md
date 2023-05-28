@@ -1,34 +1,23 @@
-# Crosshair 🎯
+# S-Crosshair 🎯
+
 Simple and well optimized Crosshair for FiveM servers.
-<br>
 
-## Features 💼
-- 🧿 Looks clean.
-- 🎪 Well optimized.
-- 🕊 Doesn't feel it running, even for a potato pc. 
+# Features 💼
 
----
-## Requirements 🧰
-- **Nothing.** Oh! But, Ofc You need a FiveM server. 😜
-- This is a **standalone** script. It means this works on any framework. (QB, ESX, Whatever)
+🧿 Looks clean. 🎪 Well optimized. 🕊 Doesn't feel it running, even for a potato pc.
 
+# Requirements 🧰
 
-## Installation 🐌
+Nothing. Oh! But, Ofc You need a FiveM server. 😜 This is a standalone script. It means this works on any framework. (QB, ESX, Whatever)
 
-```
-- unzip the file → mrm-crosshair
-- place it somewhere in your server's resource folder
-```
+# Installation 🐌
 
-```
-- add → ensure mrm-crosshair ...to your server.cfg
-- restart the server
-```
-## Credits 🍉:
-Thanks @NCDev for the inspiration. 🐝
+unzip the file → S-Crosshair
+place it somewhere in your server's resource folder
+add → ensure S-Crosshair ...to your server.cfg
+restart the server
+image
 
----
-<details>
-<summary>Tags</summary>
-Simple Crosshair, FiveM Crosshair, Optimized
-</details>
+STRG#0420
+
+Support Discord : https://discord.gg/dhw9G2g7bv
