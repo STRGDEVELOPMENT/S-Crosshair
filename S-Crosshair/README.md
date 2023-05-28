@@ -16,7 +16,7 @@ unzip the file → S-Crosshair
 place it somewhere in your server's resource folder
 add → ensure S-Crosshair ...to your server.cfg
 restart the server
-image
+
 
 STRG#0420
 
